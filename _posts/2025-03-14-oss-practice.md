@@ -18,4 +18,16 @@ public static void main(final String... args) {
 ```
 
 > [!CAUTION]
-> 새 문법도 지원할까요?
+> ~~새 문법도 지원할까요?~~ _(안됨...)_
+
+---
+- 1학기
+  - **오픈소스SW**
+  - 프로그래밍어론
+  - 자료구조
+- 2학기
+  - _무계획_
+
+[HUFS](https://hufs.ac.kr/)
+
+![Boo](https://www.hufs.ac.kr/sites/hufs/images/sub/boo-story-pic.png)
